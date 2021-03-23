@@ -31,6 +31,14 @@ Height
 
 Some instruments require a child to be of a certain size to be played. For instance, a child will need to be tall enough to be able to engage the full range of motion of the trombone’s slide mechanism to hit all its notes. Thankfully, most other instruments come in various sizes, such that a child can start learning early. However, this means that parents have to invest in properly fitted instruments as the child grows.
 
+Noise
+
+While living in an apartment, the drums, or a wind instrument may not be the right choice. 
+
+Space
+
+A piano is quite big. While living in a small house or an apartment, a smaller instrument would be a better choice.
+
 Oral features 
 
 Beginner learners of brass and woodwind instruments will take some time to develop the necessary embouchure (mouth placement) for their respective instruments. While most, if not all, children will eventually get their embouchure right, they might need slightly more time to master the embouchure of the French horn and the oboe due to the instruments’ narrow mouthpiece and double reed respectively. Children with thin lips and even teeth will usually have an easier time contorting their mouths to fit these instruments. On the other hand, if a child needs to undergo orthodontic treatment (eg. braces), it may be better to avoid instruments that involve blowing because practicing could inflict pain.
