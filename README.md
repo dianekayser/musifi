@@ -51,7 +51,7 @@ Personality
 
 It’s also important to consider your child’s personality when choosing an instrument. A child will have different experiences learning and performing different instruments. Extraverted children who love to be the center of attention may be more suited to learning the flute, trumpet, violin, or electric guitar as players of these instruments not only are commonly part of musical groups, but also get featured very prominently in these groups. On the other hand, reserved and contemplative children may be more comfortable with the piano, which is more commonly learned and performed solo or in small groups.
 
-Less common instruments 
+Common or less common instruments 
 
 Instead of being just another learner of the piano, guitar, or violin, some children may prefer to be unique and recognised for having a very special, niche skill of their own. As such, they may rather learn a comparatively rare instrument.
 This children will also be in high demand by ensembles. 
@@ -79,7 +79,7 @@ This tool could be used before a registration at a music school. It could be a s
 This is how you create code examples:
 ```
 def main():
-   countries = ['age', 'physical stength', 'Iceland', 'Norway', 'Sweden']
+   countries = ['age', 'physical stength', 'height', 'noise', 'space', 'oral features', 'size of hands', 'personality', 'common or less common instruments', 'interests', 'financial aspects']
    pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
    fishers = [1891, 2652, 3800, 11611, 1757]
 
