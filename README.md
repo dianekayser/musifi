@@ -10,7 +10,7 @@ MUSIFI - musical instrument finder
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+program to help parents to chose the right (best suitable) musical instrument for their kids.
 
 
 ## Background
