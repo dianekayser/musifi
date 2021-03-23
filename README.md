@@ -79,8 +79,8 @@ This tool could be used before a registration at a music school. It could be a s
 This is how you create code examples:
 ```
 def main():
-   countries = ['age', 'physical stength', 'height', 'noise', 'space', 'oral features', 'size of hands', 'personality', 'common or less common instruments', 'interests', 'financial aspects']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
+   age = ['1-4', '5-7', '8-10', '11-13', '14-16', '17-20']
+   physical stength = ['very weak', 'weak', 'quite strong', 'strong', 'very strong', 'like an adult']
    fishers = [1891, 2652, 3800, 11611, 1757]
 
    totPop = sum(pop)
