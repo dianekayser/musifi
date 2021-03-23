@@ -10,7 +10,7 @@ MUSIFI - musical instrument finder
 
 ## Summary
 
-program to help parents to chose the right (best suitable) musical instrument for their kids.
+tool to help parents to chose the right (best suitable) musical instrument for their kids
 
 
 ## Background
@@ -18,9 +18,9 @@ program to help parents to chose the right (best suitable) musical instrument fo
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+* kids (or their parents) often chose the wrong musical instrument for their kids, so the kids loose interest in music very quickly
+* every year music schools notice a decreasing number of students register for wind instrument lessons - otherwise, piano classes and waiting lists for other soli instruments explode  
+* music associations and orchestras lament that there is a deccreasing number of young sudents playing wind instruments and an augmentation of kids playing solo instruments, even when a wind instrument would be the better choice for many kids (financial aspects, faster learning progress, size of the fingers, strength, concentration,...)
 
 
 ## How is it used?
