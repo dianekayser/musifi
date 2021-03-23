@@ -27,12 +27,8 @@ This is how you make a list, if you need one:
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Music](/Screenshot 2021-03-23 at 15.42.50.png)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="/Screenshot 2021-03-23 at 15.42.50.png" width="300">
+<img src="/Screenshot 2021-03-23 at 15.42.50.png" width="600">
 
 This is how you create code examples:
 ```
