@@ -71,7 +71,7 @@ Woodwind instruments need their reeds changed, corks replaced, and yearly adjust
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+This tool could be used before a registration at a music school. It could be a smartphone appilication, the parents could use independently, or it could be a tool used by the music schools to advise the kids and their parents and support them in finding the right choice in picking a musical instrument.
 
 
 <img src="/Screenshot 2021-03-23 at 15.42.50.png" width="600">
@@ -79,7 +79,7 @@ Describe the process of using the solution. In what kind situations is the solut
 This is how you create code examples:
 ```
 def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
+   countries = ['age', 'physical stength', 'Iceland', 'Norway', 'Sweden']
    pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
    fishers = [1891, 2652, 3800, 11611, 1757]
 
