@@ -76,34 +76,11 @@ This tool could be used before a registration at a music school. It could be a s
 
 <img src="/Screenshot 2021-03-23 at 15.42.50.png" width="600">
 
-This is how you create code examples:
-```
-def main():
-   age = ['1-4', '5-7', '8-10', '11-13', '14-16', '17-20']
-   physical stength = ['very weak', 'weak', 'quite strong', 'strong', 'very strong', 'like an adult']
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+Data would be collected by a smartphone/tablet app or a website specially designed for this matter. Parents anwer questions about their kids (age, strength, interests,...).
+For the adjustment of the application, music teachers of the specific music school would be asked to aswer a survey about when kids best start to play the different instruments, which height is required,... The parameters can vary depending on the music school, so it would be important that this input data could be changed and adapted for every musi school. 
 
 ## Challenges
 
