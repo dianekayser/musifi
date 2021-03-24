@@ -84,17 +84,6 @@ For the adjustment of the application, music teachers of the specific music scho
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-
-## What next?
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+The project would of course not solve the problem of lack of interest in playing wind instruments. But it could at least suggest the instrument that suits the kids best and a chance to explore music in a different way, such as they don't loose interest in music in general so quickly.
 
 
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
