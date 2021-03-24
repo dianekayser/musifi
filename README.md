@@ -4,7 +4,7 @@ MUSIFI - musical instrument finder
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# MUSIFI - musical instrument finder
 
 MUSIFI - musical instrument finder
 
