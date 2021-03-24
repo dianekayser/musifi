@@ -83,6 +83,18 @@ This tool could be used before a registration at a music school. It could be a s
 Data would be collected by a smartphone/tablet app or a website specially designed for this matter. Parents anwer questions about their kids (age, strength, interests,...).
 For the adjustment of the application, music teachers of the specific music school would be asked to aswer a survey about when kids best start to play the different instruments, which height is required,... The parameters can vary depending on the music school, so it would be important that this input data could be changed and adapted for every musi school. 
 
+
+| age | physical strength | height | noise |
+| ----------- | ----------- |----------- |----------- |
+| 1-4 | very weak | <80cm | apartment |
+| 4-6 | weak | <100cm | house with close neigborhood |
+| 7-9 | quite weak | <120cm | house with some distance to neighborhood |
+| 10-13 | quite strong | <140cm | |
+| 14-16 | strong | <160cm | |
+| 17-20 | very strong | >159 cm | |
+
+
+
 ## Challenges
 
 The project would of course not solve the problem of lack of interest in playing wind instruments. But it could at least suggest the instrument that suits the kids best and a chance to explore music in a different way, such as they don't loose interest in music in general so quickly.
