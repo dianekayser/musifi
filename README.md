@@ -16,8 +16,8 @@ tool to help parents to choose the right (best suitable) musical instrument for 
 ## Background
 
 * kids (or their parents) often choose the wrong musical instrument for their kids, so the kids loose interest in music very quickly
-* every year music schools notice a decreasing number of students register for wind instrument lessons - otherwise, piano classes and waiting lists for other soli instruments explode  
-* music associations and orchestras lament that there is a deccreasing number of young sudents playing wind instruments and an augmentation of kids playing solo instruments, even when a wind instrument would be the better choice for many kids (financial aspects, faster learning progress, size of the fingers, strength, concentration,...)
+* every year music schools notice a decreasing number of students registering for wind instrument lessons - on the other hand, piano classes and waiting lists for other solo instruments increase very fast 
+* music associations and orchestras lament that there is a decreasing number of young sudents playing wind instruments and an augmentation of kids playing solo instruments, even when a wind instrument would be the better choice for many kids (financial aspects, faster learning progress, size of the fingers, strength, concentration,...). There is not much offspring of orchestra musicians.
 
 Age
 
@@ -25,23 +25,23 @@ With age comes increased physical strength and height. Both of these should be c
 
 Physical strengh
 
-Instruments such as the tuba and the cello are bulky and heavy. A child will need some strength to hold the instruments to play as well as to transport these instruments. Similarly, core and back strength are important, for learners to maintain their proper posture. For example, if drummers play with bad posture, they may sustain neck, shoulder, and back injuries.
+Some musical instruments are bulky and heavy. A child will need some strength to hold the instruments to play as well as to transport these instruments. Core and back strength are important too for learners to maintain their proper posture.
 
 Height 
 
-Some instruments require a child to be of a certain size to be played. For instance, a child will need to be tall enough to be able to engage the full range of motion of the trombone’s slide mechanism to hit all its notes. Thankfully, most other instruments come in various sizes, such that a child can start learning early. However, this means that parents have to invest in properly fitted instruments as the child grows.
+Some instruments require a child to be of a certain size to be played. Many instruments come in various sizes, such that a child can start learning early. However, this means that parents have to invest in properly fitted instruments as the child grows.
 
 Noise
 
-While living in an apartment, the drums, or a wind instrument may not be the right choice. 
+While living in an apartment, or a house with a close neighborhood, the sound intensity of an instrument should be considered.
 
 Space
 
-A piano is quite big. While living in a small house or an apartment, a smaller instrument would be a better choice.
+While living in a small house or an apartment, a smaller instrument would be a better choice than an bulky instrument.
 
 Oral features 
 
-Beginner learners of brass and woodwind instruments will take some time to develop the necessary embouchure (mouth placement) for their respective instruments. While most, if not all, children will eventually get their embouchure right, they might need slightly more time to master the embouchure of the French horn and the oboe due to the instruments’ narrow mouthpiece and double reed respectively. Children with thin lips and even teeth will usually have an easier time contorting their mouths to fit these instruments. On the other hand, if a child needs to undergo orthodontic treatment (eg. braces), it may be better to avoid instruments that involve blowing because practicing could inflict pain.
+Beginner learners of brass and woodwind instruments will take some time to develop the necessary embouchure (mouth placement) for their respective instruments. If a child needs to undergo orthodontic treatment (eg. braces), it may be better to avoid instruments that involve blowing because practicing could inflict pain.
 
 Size of hands
 
@@ -49,7 +49,7 @@ If a child happens to have larger-than-average hands with long fingers, he or sh
 
 Personality
 
-It’s also important to consider your child’s personality when choosing an instrument. A child will have different experiences learning and performing different instruments. Extraverted children who love to be the center of attention may be more suited to learning the flute, trumpet, violin, or electric guitar as players of these instruments not only are commonly part of musical groups, but also get featured very prominently in these groups. On the other hand, reserved and contemplative children may be more comfortable with the piano, which is more commonly learned and performed solo or in small groups.
+It’s also important to consider a child’s personality when choosing an instrument. A child will have different experiences learning and performing different instruments. Extraverted children who love to be the center of attention may be more suited to learning a wind or string instrument as players of these instruments are commonly part of musical groups. On the other hand, reserved and contemplative children may be more comfortable with a solo instrument, which is more commonly learned and performed alone or in small groups.
 
 Common or less common instruments 
 
@@ -58,15 +58,16 @@ This children will also be in high demand by ensembles.
 
 Interest
 
-Perhaps most importantly, a child must at least be remotely interested in the instrument. While it’s normal for young children to gain and lose interest in things quickly, it’s essential that a child is enthusiastic in learning the instrument at the beginning. If a child can appreciate the sounds of the instrument, he or she will be more likely to enjoy learning the instrument. While a child may be indifferent to several different instruments, it’s quite likely that you can ascertain if a child prefers melody, harmony, or rhythm. If a child shows a clear affinity for the rhythmic parts of music, it’s likely that he or she would prefer learning the drums over the clarinet.
+Perhaps most importantly, a child must at least be remotely interested in the instrument. While it’s normal for young children to gain and lose interest in things quickly, it’s essential that a child is enthusiastic in learning the instrument at the beginning. If a child can appreciate the sounds of the instrument, he or she will be more likely to enjoy learning the instrument. 
 
 Financial aspects
 
 Pianos tend to be the most expensive.
-Violins, flutes, and trumpets are a lot more affordable. However, parents may have to invest in larger sized and higher quality instruments for their child as he or she grows and progresses.
+Wind instruments are a lot more affordable. However, parents may have to invest in larger sized and higher quality instruments for their child as he or she grows and progresses.
 Pianos need to be tuned at least twice a year.
 Stringed instruments need their strings replaced.
 Woodwind instruments need their reeds changed, corks replaced, and yearly adjustments by a instrument technician.
+...
 
 
 ## How is it used?
