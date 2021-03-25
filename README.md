@@ -84,14 +84,14 @@ Data would be collected by a smartphone/tablet app or a website specially design
 For the adjustment of the application, music teachers of the specific music school would be asked to aswer a survey about when kids best start to play the different instruments, which height is required,... The parameters can vary depending on the music school, so it would be important that this input data could be changed and adapted for every musi school. 
 
 
-| age | physical strength | height | noise | space |
-| ----------- | ----------- |----------- |----------- |----------- |
-| 1-4 | very weak | <80cm | apartment | small apartment |
-| 4-6 | weak | <100cm | house with close neigborhood | big apartment |
-| 7-9 | quite weak | <120cm | house with some distance to neighborhood | small house |
-| 10-13 | quite strong | <140cm | | big house |
-| 14-16 | strong | <160cm | | big house with music room |
-| 17-20 | very strong | >159 cm | |
+| age | physical strength | height | noise | space | oral features | size of hands | personality | common-less common | interest | financial aspects |
+| ----------- | ----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |----------- |
+| 1-4 | very weak | <80cm | apartment | small apartment | orthodontic treatment (eg. braces) | very small hands | extraverted | common instrument | no special interests |
+| 4-6 | weak | <100cm | house with close neigborhood | big apartment | no orthodontic treatment (eg. braces) | small hands | reserved and contemplativ | less common instrument | wind instruments |
+| 7-9 | quite weak | <120cm | house with some distance to neighborhood | small house | | quite small hands | perform alone | | percussion |
+| 10-13 | quite strong | <140cm | | big house | | quite lage hands | perform in group | | harmonic instruments |
+| 14-16 | strong | <160cm | | big house with music room | | lage hands | | | string instruments |
+| 17-20 | very strong | >159 cm | | | very lage hands | | | other |
 
 
 
